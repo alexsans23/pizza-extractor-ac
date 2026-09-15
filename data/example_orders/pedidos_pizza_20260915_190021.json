@@ -1,0 +1,34 @@
+{
+  "order_list": [
+    {
+      "pizza_order": "i want a large pepperoni with no onions, but then I think that's too spicy, actually I want mushrooms instead, and it's gotta be a half-and-half, no, wait, I mean a quarter-and-quarter, with anchovies on one half and meatballs on the other, hold the cheese, but can you make the anchovies side have more sauce, and no olives, actually..."
+    },
+    {
+      "pizza_order": "erm, can I get a medium size, but actually make it a large, with a half-and-half, gluten-free crust, no problem, with chicken on one side and pineapple on the other, but make sure the pineapple is on the wrong side, like, the pineapple side is facing inward, not outward, and, uh, can you hold the chicken, actually..."
+    },
+    {
+      "pizza_order": "I want a small pepperoni, but, you know, change that to sausage, no, wait, make it a ham pizza, and, actually... I think I mean a pepperoni one, with a half-and-half, but the pepperoni side has to be on the bottom, not the top, and hold the red pepper flakes, no, not the red pepper flakes, I mean hold the garlic, and, um, can you make the sausage side have a lot of sauce, actually..."
+    },
+    {
+      "pizza_order": "erm, can I get a half-and-half pizza, with chicken on one side, and, uh, actually, make it a turkey pizza, no, wait, I mean a chicken one, with, you know, a special request, actually, I want a 3-slice pizza, but can you make it a 5-slice, actually..."
+    },
+    {
+      "pizza_order": "I want a large Hawaiian, but actually make it a BBQ chicken, and hold the pineapple, no, wait, I mean make it a Hawaiian again, but with no ham, actually, I want a ham and pineapple pizza, but with no ham, and hold the pineapple, actually..."
+    },
+    {
+      "pizza_order": "Can I get a half-and-half pizza, with olives on one side, and, you know, actually, I want no olives, and make the olives side have a lot of anchovies, no, wait, I mean make the olives side have a lot of bacon, and hold the bacon, actually..."
+    },
+    {
+      "pizza_order": "I want a small pepperoni, but, you know, change that to sausage, no, wait, make it a veggie pizza, but, actually... I think I mean a sausage one, with a half-and-half, and, you know, actually, I want a large, but can you make it a small, actually..."
+    },
+    {
+      "pizza_order": "erm, can I get a medium size, but actually make it a large, with a half-and-half, gluten-free crust, no problem, with chicken on one side and, uh, actually, make it a shrimp pizza, no, wait, I mean a chicken one, with, you know, a special request, actually, I want a lot of sauce on the chicken side, but not on the shrimp side, actually..."
+    },
+    {
+      "pizza_order": "I want a large pepperoni, but, you know, change that to sausage, no, wait, make it a ham pizza, and, actually... I think I mean a pepperoni one, with a half-and-half, but the pepperoni side has to be on the bottom, not the top, and hold the garlic, but not the garlic, actually, I want garlic on the ham side, actually..."
+    },
+    {
+      "pizza_order": "Can I get a half-and-half pizza, with chicken on one side, and, you know, actually, I want no chicken, but, actually... I want a chicken pizza, but make it a turkey one, no, wait, I mean make it a veggie one, with, uh, actually, I want a lot of mushrooms on the turkey side, but not on the veggie side, actually..."
+    }
+  ]
+}
